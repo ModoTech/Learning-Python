@@ -1,0 +1,1 @@
+# This is a code example showing how to extract a substring using python
