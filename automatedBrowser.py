@@ -5,8 +5,8 @@ from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 
 #Portal credentials
-userID = "BSIT/0109/2019"
-password = "10JH8HEBE"
+userID = ""
+password = ""
 
 #initialize the chrome driver
 driver = webdriver.Chrome("chromedriver.exe")
