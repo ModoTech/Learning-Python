@@ -1,0 +1,134 @@
+1676334608860	geckodriver	INFO	Listening on 127.0.0.1:50607
+1676334612362	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50608" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ModoTech\\AppData\\Local\\Temp\\rust_mozprofileFYOnfy"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1676334616011	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676334616031	Marionette	INFO	Listening on port 50620
+Read port: 50620
+WebDriver BiDi listening on ws://127.0.0.1:50608
+1676334617469	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ModoTech\\AppData\\Local\\Temp\\rust_mozprofileFYOnfy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50608/devtools/browser/d1b50aac-0cb4-4202-9a7b-47991d5419f8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://eregistrar.tum.ac.ke."
+1676335092342	geckodriver	INFO	Listening on 127.0.0.1:50940
+1676335095293	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50941" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ModoTech\\AppData\\Local\\Temp\\rust_mozprofile0Xai1u"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1676335097061	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676335097087	Marionette	INFO	Listening on port 50951
+Read port: 50951
+WebDriver BiDi listening on ws://127.0.0.1:50941
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1676335097309	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ModoTech\\AppData\\Local\\Temp\\rust_mozprofile0Xai1u\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50941/devtools/browser/e0f7b388-557c-420c-a27d-fde98863efcc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://eregistrar.tum.ac.ke."
+1676335547852	geckodriver	INFO	Listening on 127.0.0.1:51252
+1676335550893	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51253" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ModoTech\\AppData\\Local\\Temp\\rust_mozprofilemHdX60"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1676335556475	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676335556481	Marionette	INFO	Listening on port 51264
+Read port: 51264
+WebDriver BiDi listening on ws://127.0.0.1:51253
+1676335556669	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ModoTech\\AppData\\Local\\Temp\\rust_mozprofilemHdX60\\search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 762))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+DevTools listening on ws://127.0.0.1:51253/devtools/browser/a1c8f6ef-4f24-46b0-883c-f6810d05f3de
+1676335605059	geckodriver	INFO	Listening on 127.0.0.1:51326
+1676335608217	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51327" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ModoTech\\AppData\\Local\\Temp\\rust_mozprofilerQ48IA"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1676335608761	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676335608770	Marionette	INFO	Listening on port 51336
+WebDriver BiDi listening on ws://127.0.0.1:51327
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Read port: 51336
+1676335609914	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ModoTech\\AppData\\Local\\Temp\\rust_mozprofilerQ48IA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51327/devtools/browser/898b5bf1-0ae9-44d7-b1b9-7f72357c7e1d
+1676335905682	geckodriver	INFO	Listening on 127.0.0.1:51524
+1676335908746	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51525" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ModoTech\\AppData\\Local\\Temp\\rust_mozprofile1gOSKY"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1676335909493	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676335909506	Marionette	INFO	Listening on port 51533
+Read port: 51533
+WebDriver BiDi listening on ws://127.0.0.1:51525
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1676335909748	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ModoTech\\AppData\\Local\\Temp\\rust_mozprofile1gOSKY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51525/devtools/browser/0ddedfc1-8afa-41a5-9b3a-a597de96fbce
+1676336028517	geckodriver	INFO	Listening on 127.0.0.1:51643
+1676336031591	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51644" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ModoTech\\AppData\\Local\\Temp\\rust_mozprofileY3oEcn"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1676336032165	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676336032173	Marionette	INFO	Listening on port 51653
+Read port: 51653
+WebDriver BiDi listening on ws://127.0.0.1:51644
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1676336032384	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ModoTech\\AppData\\Local\\Temp\\rust_mozprofileY3oEcn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51644/devtools/browser/be8684e4-cdbd-44ee-8567-8cb64e91f812
+1676336191765	geckodriver	INFO	Listening on 127.0.0.1:51782
+1676336194808	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51783" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ModoTech\\AppData\\Local\\Temp\\rust_mozprofile1wOAj1"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1676336195759	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676336195766	Marionette	INFO	Listening on port 51792
+Read port: 51792
+WebDriver BiDi listening on ws://127.0.0.1:51783
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1676336196287	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ModoTech\\AppData\\Local\\Temp\\rust_mozprofile1wOAj1\\search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 762))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+DevTools listening on ws://127.0.0.1:51783/devtools/browser/2e7b4c60-df8a-4a0b-973d-fdf352a6a44d
+1676336315596	geckodriver	INFO	Listening on 127.0.0.1:51897
+1676336318653	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51898" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ModoTech\\AppData\\Local\\Temp\\rust_mozprofileLf98MV"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1676336319234	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676336319241	Marionette	INFO	Listening on port 51906
+Read port: 51906
+WebDriver BiDi listening on ws://127.0.0.1:51898
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1676336319593	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ModoTech\\AppData\\Local\\Temp\\rust_mozprofileLf98MV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51898/devtools/browser/c6653f49-a67c-48df-ba6d-32cf166f39bd
+1676336364894	geckodriver	INFO	Listening on 127.0.0.1:51967
+1676336367974	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51968" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ModoTech\\AppData\\Local\\Temp\\rust_mozprofileB73uXM"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1676336368565	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676336368573	Marionette	INFO	Listening on port 51977
+Read port: 51977
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+WebDriver BiDi listening on ws://127.0.0.1:51968
+1676336368865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ModoTech\\AppData\\Local\\Temp\\rust_mozprofileB73uXM\\search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 762))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+DevTools listening on ws://127.0.0.1:51968/devtools/browser/0cd32ab7-5f54-4741-9f95-41c6943f0a7f
